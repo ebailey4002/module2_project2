@@ -3,13 +3,13 @@ img {
 	width:  100vw;
 }
 
-.rounded-circle {
-	height: 450px;
-	width: 50px;
-}
 
 .ctp {
-	padding-left: 250px;
-	padding-right: 250px;
-	padding-bottom: 50px;
+	padding-left: 300px;
+	padding-right: 300px;
+	padding-bottom: 75px;
+}
+
+.fa-apple-whole {
+	padding-top: 75px;
 }
