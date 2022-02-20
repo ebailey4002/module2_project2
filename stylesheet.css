@@ -25,13 +25,19 @@ img {
 
 .engage {
 	font-size: 100px;
-	margin-bottom: 400px;
+	margin-bottom: 220px;
+	
 }
 
 .engagetext {
-	margin-bottom: 350px;
+	margin-bottom: 200px;
 }
 
+#nav-image {
+	height: 50px;
+	width:  50px;
+
+}
 
 
 
