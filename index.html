@@ -16,13 +16,44 @@
     <title>Module Two Project Two</title>
   </head>
   <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Products</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Services
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                <li><a class="dropdown-item" href="#">Engage</a></li>
+                <li><a class="dropdown-item" href="#">Pontificate</a></li>
+                <li><a class="dropdown-item" href="#">Synergize</a></li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Contact</a>
+            </li>            
+          </ul>
+        </div>
+      </div>
+    </nav>    
  
-    <!-- Container One... Dramatically Engage -->  
-    <div class="bg-image">
+    <!-- Container One... Dramatically Engage -->      
+    <div class="bg-image img-responsive">
       <img src="https://images.pexels.com/photos/11120214/pexels-photo-11120214.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260" class="img-responsive img-fluid">
       <p class="carousel-caption engage fw-light">Dramatically Engage</p>
       <p class="carousel-caption engagetext fw-light fs-4">Objectively innovate empowered manufactured products whereas parallel platforms.</p>
-      <button class="carousel-caption btn btn-warning mb-5">ENGAGE NOW</button>    
+      <button class="btn btn-warning carousel-caption">ENGAGE NOW</button>    
     </div>
 
     <!-- Container Two... Apple Lime Background -->
@@ -47,10 +78,9 @@
     </div>	
 
     <!-- Container Four... Superior Quality -->
-    <div class="bg-dark text-light">
-      <div class="container">
+      <div class="container-fluid bg-dark text-light">
         <div class="row">
-          <div class="col-lg-6 col-12">
+          <div class="col-sm">
             <h3 class="info pt-4">Superior Quality</h3>
             <p class="fs-4 lh-sm fw-light">Holisticly predominate extensible testing procedures for reliable supply chains. Dynamically innovate resource-leveling customer service for state of the art customer service.</p>
             <button class="btn btn-light">TEST IT</button>
@@ -60,9 +90,8 @@
           </div>       
         </div>   
       </div>
-    </div>
-    <!-- Container Five... Three Pics -->
 
+    <!-- Container Five... Three Pics -->
     <div class="container-fluid">
       <div class="row">
         <div class="col-lg-4 col-12 px-0">
