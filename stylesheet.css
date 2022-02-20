@@ -25,12 +25,12 @@ img {
 
 .engage {
 	font-size: 100px;
-	margin-bottom: 220px;
+	margin-bottom: 280px;
 	
 }
 
 .engagetext {
-	margin-bottom: 200px;
+	margin-bottom: 260px;
 }
 
 #nav-image {
@@ -39,5 +39,8 @@ img {
 
 }
 
+.intro_button{
+	margin-bottom: 170px;
+}
 
 
