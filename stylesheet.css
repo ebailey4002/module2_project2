@@ -39,8 +39,15 @@ img {
 
 }
 
-.intro_button{
+.intro_button {
 	margin-bottom: 170px;
 }
+
+.border {
+	border-color:  gray;
+
+}
+
+
 
 
