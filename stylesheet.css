@@ -5,10 +5,11 @@
 .intro-image {
 	height:  100vh;
 	width:  100vw;
+	
 }
 
 .fas {
-	padding-top: 75px;
+	padding-top: 5rem;
 }
 
 .cirpics {
@@ -20,17 +21,14 @@
 	margin-top: 75px;
 }
 
-
-.engage {
-	margin-bottom: 18rem;
-
-	
+.pro_cut {
+	margin-bottom: 6rem;
 }
 
-.engagetext {
-	margin-bottom: 15rem;
-
+.dramatic_engage {
+	margin-bottom: rem;	
 }
+
 
 #nav-image {
 	height: 50px;
@@ -43,12 +41,9 @@
 	background-color: yellowgreen;
 	border-radius: 30px 30px;
 	width: 200px;
-	border:  none;
+	border: none;
+	padding: 15px 20px;
 
-
-
-
-	
 }
 
 .border {
@@ -80,5 +75,9 @@
 .lime-container {
 	background-color: yellowgreen;
 }
+
+
+
+
 
 
