@@ -1,9 +1,11 @@
-.bg-img {
+.bg-image {
+	background-image: url("https://images.pexels.com/photos/11120214/pexels-photo-11120214.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260") ;
+}
+
+.intro-image {
 	height:  100vh;
 	width:  100vw;
 }
-
-
 
 .fas {
 	padding-top: 75px;
@@ -17,6 +19,7 @@
 .info {
 	margin-top: 75px;
 }
+
 
 .engage {
 	margin-bottom: 18rem;
@@ -37,6 +40,15 @@
 
 .intro_button {
 	margin-bottom: 10rem;
+	background-color: yellowgreen;
+	border-radius: 30px 30px;
+	width: 200px;
+	border:  none;
+
+
+
+
+	
 }
 
 .border {
@@ -50,5 +62,23 @@
 }
 
 
+
+.lime, .btn-lime {
+	background-color: yellowgreen;
+	border-radius: 35px;
+	padding: 15px 25px;
+	border: none;
+	color: white;
+}
+
+.white {
+	border-radius: 35px;
+	border: none;
+	padding: 15px 25px;
+}
+
+.lime-container {
+	background-color: yellowgreen;
+}
 
 
