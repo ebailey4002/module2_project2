@@ -46,8 +46,6 @@
 
 }
 
-.border {
-	border-color:  gray;
 
 }
 
@@ -82,15 +80,13 @@
 	left: 50%;
 	transform: translate(-50%, -50%)
 
-
 }
 
 .cb {
 	position: relative;
-	
-
-
 }
 
-
+.boxes {
+	height: 
+}
 
