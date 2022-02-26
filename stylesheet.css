@@ -84,9 +84,16 @@
 
 .cb {
 	position: relative;
+
 }
 
 .boxes {
 	height: 
 }
 
+.cb:hover {
+	background-size:  150%;
+	border: 10px solid gray ;
+    line-height: 160px;
+	
+}
